@@ -3,6 +3,3 @@
   to = "/resume.pdf"
   status = 200
 
-[[redirects]]
-  from = "/*"
-  to = "/resume.pdf"
