@@ -1,4 +1,4 @@
 # sanyam-resume
 
-https://niopl.netlify.app/
+https://sanyam-resume.netlify.app/
 
